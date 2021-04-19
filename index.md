@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: "Sijin Li"
 image:
-  feature: glencoe_1600x800.jpg
+  feature: img_forHome_1600_800.jpg
 ---
 
 <div class="tiles">
