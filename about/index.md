@@ -6,7 +6,7 @@ modified:
 excerpt: "About me."
 tags: []
 image:
-  feature: Simon_kids_1600x800.jpg
+  feature: Li_in_Iceland.JPG
   teaser: Kids_fishtank_400x250.jpg
 share: false
 ---
