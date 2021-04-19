@@ -6,8 +6,8 @@ excerpt: "Integrating multi-source data to deep learning-based method to classif
 tags: [research, classification, geomorphology]
 modified: 2021-04-19
 image:
-  feature: Marsh_elev_small.png
-  teaser: Marh_elev_teaser.png
+  feature: LC_forDetails_Result.jpg
+  teaser: LC_forIntro_YulinResult.jpg
 ads: false
 share: false
 ---
