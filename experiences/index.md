@@ -6,8 +6,8 @@ modified:
 excerpt: 
 tags: []
 image:
-  feature: Black_mount_banner.jpg
-  teaser: ChiFia_400x250.jpg
+  feature: img_forExp&Res_1300_400.jpg
+  teaser: img_forExpT_400_250.jpg
 ---
 
 ## Overview
