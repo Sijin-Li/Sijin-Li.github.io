@@ -16,7 +16,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Interests</h2>
-  <p class="post-excerpt">Topographic analysis; DL</p>
+  <p class="post-excerpt">Topographic analysis;  DL</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
