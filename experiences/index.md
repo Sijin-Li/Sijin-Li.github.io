@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature: img_forExp&Res_1300_400.jpg
-  teaser: img_forExpT_400_250.jpg
+  teaser: img_forExpT_400_250.png
 ---
 
 ## Overview
