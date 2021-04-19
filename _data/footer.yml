@@ -1,0 +1,20 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+  
+- title: Experiences
+  url: /experiences
+ 
+- title: Pubs
+  url: /publications
+  
+- title: Software
+  url: /software
+  
+- title: Group
+  url: /group 
+  
+- title: Research
+  url: /research
+

@@ -1,0 +1,39 @@
+# Site wide configuration
+
+title: Sijin Li
+description: "Sijin Li's website"
+logo: Simon_Photo_160x160.jpg # 120x120 px default image used for Twitter summary card
+teaser: monkey_400x250.jpg # 400x250 px default teaser image used in image archive grid
+locale: CN
+url: //Sijin-Li.github.io
+encoding: UTF-8
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner: 
+  name: Simon M. Mudd
+  email: simon.m.mudd@ed.ac.uk
+  twitter: simonmariusmudd
+  avatar: Simon_Photo_160x160.jpg # 160x160 px image for author byline
+  
+# Some testing stuff
+author:
+  name: 'Simon M Mudd'
+  twitter_username: SimonMariusMudd
+  github_username:  simon-m-mudd
+  google_scholar_id: 9iv6l7wAAAAJ
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "readme.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

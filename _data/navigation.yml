@@ -1,0 +1,32 @@
+# Site navigation links
+
+- title: Experiences
+  url: /experiences/
+  excerpt: "personal experience." 
+  image: ChiFia_400x250.jpg
+  
+- title: Group
+  url: /group/
+  excerpt: "Group members."
+  image: Default_400x250.jpg 
+  
+- title: Research
+  url: /research/
+  excerpt: "Research projects." 
+  image: ChiFia_400x250.jpg
+  
+- title: Software
+  url: /software/
+  excerpt: "Our software." 
+  image: Transient_400x200.jpg
+
+- title: Pubs
+  url: /publications/
+  excerpt: "My publications."
+  image: Terrace_hillside_400x250.jpg
+  
+- title: About
+  url: /about/
+  excerpt: "About."
+  image: Kids_fishtank_400x250.jpg  
+  
