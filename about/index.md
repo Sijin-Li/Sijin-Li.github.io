@@ -6,7 +6,7 @@ modified:
 excerpt: "About me."
 tags: []
 image:
-  feature: Li_in_Iceland.JPG
+  feature: Li_in_Iceland_1600_800.JPG
   teaser: Paris_400_250.png
 share: false
 ---
