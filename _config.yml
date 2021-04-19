@@ -23,16 +23,16 @@ gems:
 
 # Site owner
 owner: 
-  name: Simon M. Mudd
-  email: simon.m.mudd@ed.ac.uk
-  twitter: simonmariusmudd
+  name: Sijin Li
+  email: lisijin1411@gmail.com
+  twitter: sijili
   avatar: Simon_Photo_160x160.jpg # 160x160 px image for author byline
   
 # Some testing stuff
 author:
-  name: 'Simon M Mudd'
-  twitter_username: SimonMariusMudd
-  github_username:  simon-m-mudd
+  name: 'Sijin Li'
+  twitter_username: SijinLi
+  github_username:  Sijin-Li
   google_scholar_id: 9iv6l7wAAAAJ
 
 
