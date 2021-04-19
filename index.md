@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: "Sijin Li"
 image:
-  feature: img_forHome_1600_350.png
+  feature: img_forHome_1000_500.jpg
 ---
 
 <div class="tiles">
