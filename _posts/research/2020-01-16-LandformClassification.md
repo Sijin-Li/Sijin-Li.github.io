@@ -6,8 +6,8 @@ excerpt: "Integrating multi-source data to deep learning-based method to classif
 tags: [research, classification, geomorphology]
 modified: 2021-04-19
 image:
-  feature: LC_forDetails_Result.jpg
-  teaser: LC_forIntro_YulinResult.jpg
+  feature: LC_forDetails_new_800.jpg
+  teaser: LC_forIntro_Yulin_1440.jpg
 ads: false
 share: false
 ---
