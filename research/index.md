@@ -12,9 +12,9 @@ image:
 
 ## Overview
 
-I'm broadly interested in why the surface of the Earth looks the way it does. This has led me in a number of directions. I try to understand the topographic signature of various erosion processes as well as the topographic outcome of tectonic forcing. I am also interested in how chemical weathering affects morphology, and the evolution of coastal ecosystems. 
+I'm broadly interested in the feature of the Earth's suface and various landforms. 
 
-You can have a look at my [Google scholar](https://scholar.google.com/citations?user=9iv6l7wAAAAJ&hl=en) page to see a list of my publications, or navigate to the publications page. Below are some recent papers and projects I've been involved in.  
+You can have a look at my [Research Gate](https://www.researchgate.net/profile/Sijin-Li-8) page to see a list of my researches, or navigate to the publications page. Below are some recent papers and projects I've been involved in.  
 
 ## Research projects
 
