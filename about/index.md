@@ -17,7 +17,7 @@ share: false
   <h2 class="post-title">Nanjing Normal University</h2>
   <p class="post-excerpt">I am a PhD student at the <a href="http://en.njnu.edu.cn/">Nanjing Normal University</a>,
   in the <a href="http://schools.njnu.edu.cn/geog/">School of Geography</a>.</p>
-  <p class="post-excerpt">Room 420</p>
+  <p class="post-excerpt">Room 423</p>
 </div><!-- /.tile -->
 
 <div class="tile">
