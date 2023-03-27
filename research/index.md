@@ -18,5 +18,14 @@ You can have a look at my [Research Gate](https://www.researchgate.net/profile/S
 
 ## Research projects
 
+<div class="tiles">
+
+<div class="tiles">
+{% for post in site.categories.research %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+</div><!-- /.tiles -->
 
 
