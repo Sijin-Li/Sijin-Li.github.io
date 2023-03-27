@@ -12,8 +12,6 @@ ads: false
 share: false
 ---
 
-
-
 ## Deep learning-based approach for landform classification from integrated data sources of digital elevation model and imagery
 
   In this paper we focused on the classification of loess landforms which contains samilar morphological characteristics. Imagery, DEM and other terrain derivative were collected as the input data. A deep learning-based algorithm contained multi-channel input was launched to accomplish the classification of loess landforms, including loess hills and loess ridges.
