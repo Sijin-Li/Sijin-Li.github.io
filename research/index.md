@@ -21,7 +21,7 @@ You can have a look at my [Research Gate](https://www.researchgate.net/profile/S
 <div class="tiles">
 
 <div class="tiles">
-{% for post in site.categories.research %}
+{% for post in site.categories.researchlist %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
